@@ -8,6 +8,7 @@ However, still the nonlinear distortions imposed in propagation channel limit th
 
 
 1. INTRODUCTION
+
   1.1 OBJECTIVE
   The global positioning system (GPS) used for localizing nodes in outdoor environment is limited due to poor energy management and implementation cost. In GPS-based localization, it is necessary to   exist a perfect line of sight (LOS) from satellite-to-sensor node.
   The multimodal sensor nodes can be placed either systematically or randomly in a given sensor field. During sensing certain phenomena, one should also know where it has happened. If the location     of the node sensing a specific event is unidentified, then discovering such event becomes useless. Discovering node location is usually called as localization
